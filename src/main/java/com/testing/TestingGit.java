@@ -10,4 +10,8 @@ public class TestingGit {
 	public void gitCommands() {
 		System.out.println("Git Commands!");
 	}
+	
+	public void addFromGithub() {
+		System.out.println("Add from Github!");
+	}
 }
